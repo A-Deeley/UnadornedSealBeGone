@@ -1,0 +1,6 @@
+## Interface: 11401
+## Title: Seal B Gone!
+## Author: Kuronai-Shadowstrike
+## Version: 0.1
+
+itemFinder.lua
